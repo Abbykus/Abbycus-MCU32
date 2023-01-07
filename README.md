@@ -6,4 +6,4 @@ The module is capable of many advanced I/O functions, servo control outputs, dig
 ### How can I program and debug the IOX-2.0? ###
 The module can be paired with the Abbycus IOX Breakout board which features a pogo pin socket which routes signals to 0.1" header pins and connectors for the various serial bus configurations. The breakout board also contains connection for the STMicroelectronics ST-LINK V2 programmer and debug tool. 
 The IOX-2.0, IOX-Breakout board, and the ST-LINK V2 programmer work with the [STMCubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html) free software to enable the user to program and debug C/C++ code for the MCU.
-See also the Getting-Started file in this directory.
+See also the Quick Start PDF file in the DOC directory.
