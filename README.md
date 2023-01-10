@@ -1,5 +1,5 @@
 # Abbycus MCU32
-### A low cost high performance 32 bit MicroController module and complete DIY development environment. ###
+### A low cost - high performance 32 bit MicroController module with complete DIY development environment. ###
 ### What is the MCU32 module? ###
 The IOX-2.0 module is a 32 bit / 48 MHz MicroController Unit (MCU) utilizing the STMicroelectronics STM32F030K6. The IOX-2.0 module embeds the MCU, a precision crystal resonator, signal biasing, and power filtering on a small 1.5cm square board which can be surface mounted to a PCB, connected via header pins, or hardwired to your projects hardware.
 The MCU32 module is capable of many advanced I/O functions, servo control outputs, digital pulse width and frequency measurements, a fast 12-bit ADC with up to 10 multiplexed channels, rotatry encoder support, high speed serial buses (I2C, UART, SPI), and much more.
