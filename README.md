@@ -1,6 +1,5 @@
 # Abbycus MCU32
 ### A low cost - high performance 32 bit MicroController module with a complete DIY development environment. ###
-![](https://github.com/Abbykus/Abbycus-MCU32/blob/main/PHOTOS/IOX-PROG-BUNDLE_SMALL.jpg)
 ### What is the MCU32 module? ###
 The [MCU32 module](https://www.tindie.com/products/abbycus/abby-iox-breakout-board/) is a 32 bit / 48 MHz MicroController Unit utilizing the STMicroelectronics STM32F030K6 MCU with 32K FLASH and 4K SRAM memory. The MCU32 module embeds the MCU, a precision crystal resonator, signal biasing, and power filtering on a small 1.5cm square board which can be surface mounted to a PCB, mounted on header pins, or hardwired into your projects hardware.
 The MCU32 module is capable of many advanced I/O functions, servo control outputs, digital pulse width and frequency measurements, a fast 12-bit ADC with up to 10 multiplexed channels, rotatry encoder support, high speed serial buses (I2C, UART, SPI), and much more.
